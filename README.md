@@ -34,10 +34,10 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/nabil-el-amrawy/" target="_blank">
-  <img src="https://img.shields.io/badge/Nabil_Hany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mohamed_Hany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://t.me/Mohamed_Hanyyy" target="_blank">
-  <img src="https://img.shields.io/badge/Nabil_Hany-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mohamed_Hany-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 ---
