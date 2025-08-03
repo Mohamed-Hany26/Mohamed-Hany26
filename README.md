@@ -12,7 +12,7 @@
 
  -🚀*Mohamed Hany El-Eraky El-Amrawy*.
 
--🎓 **Third-year student**.  
+-🎓 **Second-year student**.  
 - 🏢 **Mansoura University - Faculty of Specific Education, Computer Science Department**.
 
 -💡 Passionate about web development, specializing in *Front-End Development*.  
