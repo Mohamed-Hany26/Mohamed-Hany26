@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/nabil-el-amrawy/" target="_blank">
   <img src="https://img.shields.io/badge/Nabil_Hany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://t.me/Nabil_Hany22" target="_blank">
+<a href="https://t.me/Mohamed_Hanyyy" target="_blank">
   <img src="https://img.shields.io/badge/Nabil_Hany-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
